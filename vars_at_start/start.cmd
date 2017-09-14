@@ -13,8 +13,8 @@
 
 set ROLE=controller
 timeout /t 1
-start "%programfiles%/derivative/touchdesigner099/bin/touchdesigner099.exe" "%~dp0/project.toe"
+start "%programfiles%\derivative\touchdesigner099\bin\touchdesigner099.exe" "%~dp0\project.toe"
 
 set ROLE=node
 timeout /t 1
-start "%programfiles%/derivative/touchdesigner099/bin/touchdesigner099.exe" "%~dp0/project.toe""
+start "%programfiles%\derivative\touchdesigner099\bin\touchdesigner099.exe" "%~dp0\project.toe""
