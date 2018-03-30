@@ -1,0 +1,1 @@
+Run the start.cmd as an administrator
